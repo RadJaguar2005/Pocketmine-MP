@@ -14,5 +14,5 @@ wget -q https://jenkins.pmmp.io/job/PHP-7.4-Linux-x86_64/lastSuccessfulBuild/art
 Unzip the PHP Folder 
 
 ```
-tar xzf PHP_Linux-x86_64.tar.gz && rmdir PHP_Linux-x86_64.tar.gz
+tar xzf PHP_Linux-x86_64.tar.gz
 ```
