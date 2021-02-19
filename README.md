@@ -1,5 +1,5 @@
 # Pocketmine-MP
-Install Pocketmine-MP Server
+Install the Pocketmine-MP Server
 
 ```
 git clone https://github.com/RadJaguar2005/Pocketmine-MP.git
@@ -14,5 +14,5 @@ wget -q https://jenkins.pmmp.io/job/PHP-7.4-Linux-x86_64/lastSuccessfulBuild/art
 Unzip the PHP Folder 
 
 ```
-tar xzf /tmp/PHP.tar.gz
+tar xzf PHP.tar.gz
 ```
